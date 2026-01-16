@@ -195,10 +195,11 @@ Components utilizing open-source technologies maintain compliance with their res
 
 ---
 
-*Built with millennial determination and industrial-grade caffeine by Patrick Ryan, CTO of Fireball Industries.*
+*Built with determination and industrial-grade caffeine by Patrick Ryan, CTO of Fireball Industries.*
 
 *© 2025 Fireball Industries. All Rights Reserved.*
 
+*Ignite your factory efficiency*
 ---
 
 **Because your industrial infrastructure deserves connectivity that doesn't require a sacrifice to the networking gods.**
