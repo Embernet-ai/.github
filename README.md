@@ -171,14 +171,6 @@ Founded on the principle that industrial automation should empower end-users rat
 
 ---
 
-## Contributing
-
-Embernet is currently in closed beta. Contribution guidelines and open-source components will be published as we approach general availability.
-
-For partnership inquiries, technical discussions, or to share your Industry 4.0 war stories, reach out to our team.
-
----
-
 ## License
 
 Embernet is proprietary software developed and distributed by Fireball Industries. Specific licensing terms are available to beta partners and enterprise customers.
