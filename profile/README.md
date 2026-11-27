@@ -6,7 +6,7 @@
 
 ## Overview
 
-Welcome to Embernet.ai - where industrial connectivity meets the 21st century, and your OT infrastructure finally gets the respect it deserves. Built by [Fireball Industries](https://fireballz.ai), Embernet is our Industry 4.0/5.0 platform that brings secure, real-time connectivity to industrial environments without the vendor lock-in, technical debt, or existential dread that typically accompanies "digital transformation."
+Welcome to [Embernet.ai](https://embernet.ai) - where industrial connectivity meets the 21st century, and your OT infrastructure finally gets the respect it deserves. Built by [Fireball Industries](https://fireballz.ai), Embernet is our Industry 4.0/5.0 platform that brings secure, real-time connectivity to industrial environments without the vendor lock-in, technical debt, or existential dread that typically accompanies "digital transformation."
 
 Because let's face it: your factory floor deserves better than another proprietary black box that promises the moon and delivers a firmware update calendar from 2003.
 
